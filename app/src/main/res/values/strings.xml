@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GDMS</string>
+    <string name="login">Login</string>
+
+    <string name="todo">TODO</string>
+    <string name="choose_one">Choose One:</string>
+</resources>
